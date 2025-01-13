@@ -10,7 +10,7 @@ on:
     workflow_dispatch:
 
 env:
-    REGISTRY_IMAGE: yzqzy/lightdash-i18n
+    REGISTRY_IMAGE: msy/lightdash-i18n
 
 jobs:
     # This job builds Docker images for various architectures in parallel
